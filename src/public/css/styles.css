@@ -1,0 +1,9 @@
+#mensajes{
+    background-color: aqua;
+    color: red;
+}
+.mensaje{
+    border: 5px;
+    border-radius: 5px;
+    background-color: black;
+}
